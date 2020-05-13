@@ -10,7 +10,7 @@
 
 # Как его поставить?
 
-1. Скачать `.zip` или `.tar.gz` архив со страницы [`Releases`](https://github.com/Calamity34/BetterRussianMC/releases).
+1. Скачать `.zip` или `.tar.gz` архив со страницы [Releases](https://github.com/Calamity34/BetterRussianMC/releases).
 2. Найти папку $minecraftroot(.minecraft)/resourcepacks/
 3. Добавить туда архив.
 4. Запустить игру и перейти в настройки Пакетов Ресурсов.
